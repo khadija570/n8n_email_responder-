@@ -49,8 +49,5 @@ Update them directly inside n8n after importing.
 
 ## Security notes
 - No secrets are committed in this repository.
-- Do **not** commit your real `.env` file.
-- If you ever committed secrets in Git history, rotate them before making the repo public.
-
 ## License
 MIT
