@@ -1,0 +1,16 @@
+# Secrets / env
+.env
+.env.*
+
+# n8n runtime data (self-host)
+n8n_data/
+.n8n/
+*.sqlite
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
